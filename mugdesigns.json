@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "image": "/lovable-uploads/8c407446-9272-4126-950f-b06eae65454e.png",
+    "prompt": "A ceramic mug featuring an illustration of a fox with flowers",
+    "price": "$24.99",
+    "priceValue": 24.99
+  },
+  {
+    "id": 2,
+    "image": "/lovable-uploads/8c407446-9272-4126-950f-b06eae65454e.png",
+    "prompt": "Minimalist geometric patterns with sunset colors",
+    "price": "$22.99",
+    "priceValue": 22.99
+  },
+  {
+    "id": 3,
+    "image": "/lovable-uploads/8c407446-9272-4126-950f-b06eae65454e.png",
+    "prompt": "Abstract watercolor design with blue and purple tones",
+    "price": "$26.99",
+    "priceValue": 26.99
+  }
+]
