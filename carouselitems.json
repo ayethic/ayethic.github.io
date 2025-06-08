@@ -1,12 +1,111 @@
 [
   {
-    "id": 1,
-    "image": "https://i.ibb.co/6Rmrr3GD/Chat-GPT-Image-May-31-2025-05-37-08-PM.png",
-    "description": "Minimalist stick figure couples."
+     "index":[
+        {
+           "id":1,
+           "image":"https://i.ibb.co/6Rmrr3GD/Chat-GPT-Image-May-31-2025-05-37-08-PM.png",
+           "description":"Minimalist stick figure couples."
+        },
+        {
+           "id":2,
+           "image":"https://i.ibb.co/YB6r8N4Z/Chat-GPT-Image-May-31-2025-05-44-02-PM.png",
+           "description":"Hand Painted Style."
+        }
+     ]
   },
   {
-    "id": 2,
-    "image": "https://i.ibb.co/YB6r8N4Z/Chat-GPT-Image-May-31-2025-05-44-02-PM.png",
-    "description": "Hand Painted Style."
+     "landscape":[
+        {
+           "id":16,
+           "image":"https://picsum.photos/id/10/300/200",
+           "description":"Peaceful hills and sky."
+        },
+        {
+           "id":17,
+           "image":"https://picsum.photos/id/40/300/200",
+           "description":"Mountain view with dramatic clouds."
+        },
+        {
+           "id":3,
+           "image":"https://picsum.photos/id/50/300/200",
+           "description":"Forest path in vibrant autumn."
+        }
+     ]
+  },
+  {
+     "urban":[
+        {
+           "id":4,
+           "image":"https://picsum.photos/id/20/300/200",
+           "description":"Bustling city skyline."
+        },
+        {
+           "id":5,
+           "image":"https://picsum.photos/id/1012/300/200",
+           "description":"Modern cityscape in sunlight."
+        },
+        {
+           "id":6,
+           "image":"https://picsum.photos/id/1015/300/200",
+           "description":"City street with reflections."
+        }
+     ]
+  },
+  {
+     "nature":[
+        {
+           "id":7,
+           "image":"https://picsum.photos/id/1020/300/200",
+           "description":"Majestic waterfall in nature."
+        },
+        {
+           "id":8,
+           "image":"https://picsum.photos/id/1021/300/200",
+           "description":"Green forest trees and light."
+        },
+        {
+           "id":9,
+           "image":"https://picsum.photos/id/1022/300/200",
+           "description":"Wide river flowing peacefully."
+        }
+     ]
+  },
+  {
+     "architecture":[
+        {
+           "id":10,
+           "image":"https://picsum.photos/id/1003/300/200",
+           "description":"Classic building with arches."
+        },
+        {
+           "id":11,
+           "image":"https://picsum.photos/id/1008/300/200",
+           "description":"Modern glass structure."
+        },
+        {
+           "id":12,
+           "image":"https://picsum.photos/id/1011/300/200",
+           "description":"Bridge over calm water."
+        }
+     ]
+  },
+  {
+     "water":[
+        {
+           "id":13,
+           "image":"https://picsum.photos/id/30/300/200",
+           "description":"Wooden pier over water."
+        },
+        {
+           "id":14,
+           "image":"https://picsum.photos/id/1016/300/200",
+           "description":"Waves crashing on the rocks."
+        },
+        {
+           "id":15,
+           "image":"https://picsum.photos/id/1025/300/200",
+           "description":"Calm sea with a distant ship."
+        }
+     ]
   }
 ]
