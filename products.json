@@ -1,6 +1,12 @@
 {
-  "product_names": [
-    "Ceramic Cup (325 ml)",
-    "Frosted Glass Mug (325 ml)"
+  "products": [
+    {
+      "name": "Ceramic Cup (325 ml)",
+      "image_url": "https://i.ibb.co/wh7MLKxr/Daco-4281689-Photoroom.webp"
+    },
+    {
+      "name": "Frosted Glass Mug (325 ml)",
+      "image_url": "https://images.pexels.com/photos/139488/pexels-photo-139488.jpeg"
+    }
   ]
 }
