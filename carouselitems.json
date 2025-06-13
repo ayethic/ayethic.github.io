@@ -12,5 +12,82 @@
             "description":"Hand Painted Style."
          }
       ]
+   },
+   {
+      "Whimsical Characters & Cartoons":[
+         {
+            "id":"54fd11dd-a3a9-41af-b260-3b17640cc817",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/14aa8ab1-2cd0-419f-a518-8c0216ce0175.png?",
+            "description":"Flat, minimalistic cartoon style with bold, clean black outlines and a whimsical, friendly mood."
+         },
+         {
+            "id":"094c2bfa-281b-4530-9230-725273b7410e",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/889ad32b-e060-4f21-85fb-1ebd8fb40655.png?",
+            "description":"Kawaii, minimal, and feminine with playful repetitive motifs, pastel colors, and clean outlines."
+         },
+         {
+            "id":"42ba73ec-0211-4762-bfc0-effb23e4a75e",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/2bea2c7f-71a6-407d-ad32-5285d6dbc3ce.png?",
+            "description":"Whimsical, hand-drawn cartoon style with bold linework, playful imperfections, and vibrant, childlike watercolor accents."
+         },
+         {
+            "id":"f06e1731-a12b-4a7d-899f-2b28857a0975",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/7430c9b8-19e1-4deb-90eb-379e8f3f657c.png?",
+            "description":"Playful, hand-drawn cartoon style with bold outlines, childlike features, imperfect scribbles, and whimsical, artsy charm."
+         },
+         {
+            "id":"c0e8c71f-b56a-4392-8f87-99be0f78e23a",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/3dd231a5-ddb3-4994-89b2-e6d370a75fbe.png?",
+            "description":"Modern, playful, and minimalist illustration with bold, contrasting colors and whimsical, hand-drawn elements."
+         }
+      ],
+      "Artistic & Nature-Inspired":[
+         {
+            "id":"7480a670-153f-48e6-8c0e-954269bc6c53",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/7df1b20d-de6a-4a35-85d7-e4e0ba5c8b69.png?",
+            "description":"Modern boho line-art with minimalist, expressive outlines and subtle vintage tones in an organic, densely layered floral composition."
+         },
+         {
+            "id":"5875a65e-6885-42a4-a802-a271fc8bd312",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/60e86719-74e6-4192-b76d-89350a9c825b.png?",
+            "description":"Playful, crayon-style folk art with a whimsical, hand-drawn appearance."
+         }
+      ],
+      "Jungle & Animal Realism":[
+         {
+            "id":"a8d34da5-5b01-4ab4-88aa-b1db7b6445be",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/4f4b05c8-5701-49ab-b114-e6d22492bb75.png?",
+            "description":"Modern naturalistic style with realistic wildlife and detailed botanical illustration in a seamless, vibrant composition."
+         }
+      ],
+      "Minimalist Black & White Doodles":[
+         {
+            "id":"570c6e2d-0951-4f9e-a856-1b05991bf1a6",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/b0ea1b43-5fc9-4dcb-8ebf-34a9fdcc47b8.png?",
+            "description":"Minimalist, hand-drawn cartoon doodles in a monochrome, Scandinavian-inspired style with playful, childlike lines and sparse accent colors."
+         },
+         {
+            "id":"92385cce-b02f-4e8f-bf26-8e407e3a51e3",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/19d6915c-694f-43d9-8ca1-c00a100ae679.png?",
+            "description":"Clean, modern cartoon line art with selective pops of bright color against minimalist black outlines."
+         },
+         {
+            "id":"52b79b12-b18f-41e6-bb94-591c3c8039ed",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/cc4ac680-fc9f-4f52-9447-39496161d996.png?",
+            "description":"Playful, messy, and joyful childlike crayon doodle style with wobbly, uneven lines and spontaneous, imperfect details."
+         }
+      ],
+      "Folk & Ethnic Art":[
+         {
+            "id":"23dbcf2a-5e96-4465-8cf9-185fc82c715a",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/957b93b4-81e7-4327-9217-f5d640e688a1.png?",
+            "description":"The style is a rustic, hand-drawn, folk-inspired pattern based on traditional Indian Warli art, featuring minimal, geometric figures and symbolic storytelling in earthy tones."
+         },
+         {
+            "id":"b1568df2-065d-45db-b05d-168ac0c52536",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/6bef1362-cd58-48e6-b1c7-3206ad288801.png?",
+            "description":"A realistic, painterly style blending intricate architectural illustration with lush, immersive tropical foliage, rendered in warm, earthy tones and rich gradients for a serene, vintage postcard feel."
+         }
+      ]
    }
 ]
