@@ -14,7 +14,7 @@
       ]
    },
    {
-      "Whimsical Characters & Cartoons":[
+      "Whimsical Characters":[
          {
             "id":"54fd11dd-a3a9-41af-b260-3b17640cc817",
             "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/14aa8ab1-2cd0-419f-a518-8c0216ce0175.png?",
@@ -41,7 +41,7 @@
             "description":"Modern, playful, and minimalist illustration with bold, contrasting colors and whimsical, hand-drawn elements."
          }
       ],
-      "Artistic & Nature-Inspired":[
+      "Artistic":[
          {
             "id":"7480a670-153f-48e6-8c0e-954269bc6c53",
             "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/7df1b20d-de6a-4a35-85d7-e4e0ba5c8b69.png?",
@@ -53,14 +53,14 @@
             "description":"Playful, crayon-style folk art with a whimsical, hand-drawn appearance."
          }
       ],
-      "Jungle & Animal Realism":[
+      "Jungle & Animal":[
          {
             "id":"a8d34da5-5b01-4ab4-88aa-b1db7b6445be",
             "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/4f4b05c8-5701-49ab-b114-e6d22492bb75.png?",
             "description":"Modern naturalistic style with realistic wildlife and detailed botanical illustration in a seamless, vibrant composition."
          }
       ],
-      "Minimalist Black & White Doodles":[
+      "Minimalist and Doodles":[
          {
             "id":"570c6e2d-0951-4f9e-a856-1b05991bf1a6",
             "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/b0ea1b43-5fc9-4dcb-8ebf-34a9fdcc47b8.png?",
@@ -77,7 +77,7 @@
             "description":"Playful, messy, and joyful childlike crayon doodle style with wobbly, uneven lines and spontaneous, imperfect details."
          }
       ],
-      "Folk & Ethnic Art":[
+      "Folk and Ethnic":[
          {
             "id":"23dbcf2a-5e96-4465-8cf9-185fc82c715a",
             "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/957b93b4-81e7-4327-9217-f5d640e688a1.png?",
