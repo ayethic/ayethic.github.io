@@ -1,137 +1,136 @@
 [
-    
-    {
-          "index": [
-    {
-      "id": "1faa66e4-889b-4d9c-bc63-519aef2f387c",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/2ey3mp3t3xrmc0cqef4s8xyay4.png",
-      "description": "Whimsical, nostalgic bakery-themed cartoons."
-    }
-  ]
-  "Whimsical Characters and Cartoons": [
-    {
-      "id": "296d5d54-03f5-4994-97c0-2d90cf05fb6b",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/48f49e51-6ea2-4123-8108-3dee3e628036.png?",
-      "description": "Flat, minimalistic, playful cartoon dog illustrations."
-    },
-    {
-      "id": "87152969-772b-453a-86a6-01dd280f375a",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/2pkw8bmy71rme0cqeepa3e2ejg.png",
-      "description": "Cute, pastel-toned kawaii pattern."
-    },
-    {
-      "id": "8c8bc8bf-8381-46ae-9bb0-d6a9d6d2f287",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/wga8jcrzr1rm80cqeefadqhapr.png",
-      "description": "Bold linework with colorful, handcrafted charm."
-    },
-    {
-      "id": "8a6616ba-f4e0-4786-9fe9-906dabecec65",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/99cq9p1ydhrme0cqeeh8a6d61g.png",
-      "description": "Playful, imperfect hand-drawn bunny with glasses."
-    },
-    {
-      "id": "7911aa5c-a95a-4156-b4b8-2d4369d593b2",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/ee1e8498-324b-4b43-aeee-cba0d33c497e.png?",
-      "description": "Modern cozy scene with bold minimal colors."
-    },
-    {
-      "id": "67ea5ecc-3c90-4d2a-8e9e-b06fbfdd0063",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/212a4880-fdd5-4639-9ac2-94cec3b370c7.png?",
-      "description": "Minimalist kawaii style with warm tones."
-    },
-    {
-      "id": "eec7a736-2fcd-4935-83fc-30b459fb6fb4",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/5c95c24b-d384-41ac-a5c1-5c4231317bba.png?",
-      "description": "Playful autumnal cats with earthy tones."
-    },
-    {
-      "id": "cc1d73ad-3440-4455-a26e-ccfd767e4aed",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/kxs54qr685rma0cqef3a4zbme8.png",
-      "description": "Light pastel kawaii with playful characters."
-    },
-    {
-      "id": "1faa66e4-889b-4d9c-bc63-519aef2f387c",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/2ey3mp3t3xrmc0cqef4s8xyay4.png",
-      "description": "Whimsical, nostalgic bakery-themed cartoons."
-    }
-  ],
-  "Artistic and Nature-Inspired": [
-    {
-      "id": "3b80eb6a-1889-416d-a609-5cecd49461f0",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/157f5fc8-f956-47e9-b935-a96e74f04897.png?",
-      "description": "Minimalist, layered boho wildflower line art."
-    },
-    {
-      "id": "fb33a440-21e5-4fe5-bdf4-606c7c4b9f2c",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/d91a3396-8dde-44fd-935a-ac8c517ab5a5.png?",
-      "description": "Colorful, crayon-like hand-drawn nature pattern."
-    },
-    {
-      "id": "cd6777d7-1ab3-4867-95d9-01fb60ac136c",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/929e08c6-6b4e-4849-b38e-7b1c04796aed.png?",
-      "description": "Bold, graphic mid-century botanical shapes."
-    },
-    {
-      "id": "7381c982-26b0-4afa-89b0-347c44e2a069",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/a2284f73-b0f8-47d9-9d61-9e3cde299f3d.png?",
-      "description": "Serene, textured watercolor forest night scene."
-    }
-  ],
-  "Jungle and Animal Realism": [
-    {
-      "id": "98c2f5b6-dd61-46e9-9142-9a0e756111a2",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/d50bv04gmhrm80cqef0t8aqe74.png",
-      "description": "Realistic jungle animals and lush tropical plants."
-    }
-  ],
-  "Minimalist Black and White Doodles": [
-    {
-      "id": "037b72a5-e169-4e76-90b7-93a3fa4adaea",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/6cf76763-2877-485d-869e-c67fc5882da6.png?",
-      "description": "Playful monochrome doodles with subtle color accents."
-    },
-    {
-      "id": "e05ce33c-e4c4-4c3e-b432-c2198881bd1b",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/36b2a467-dab0-4503-84a7-f3f637173590.png?",
-      "description": "Simple black outlines with colorful accents."
-    },
-    {
-      "id": "c48cf1b1-4408-4e24-90e8-e7178cd070e8",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/922368ca-f010-43ec-aa7e-21e9d9a2f186.png?",
-      "description": "Playful, messy childlike crayon stick figures."
-    },
-    {
-      "id": "333015d8-a497-46b7-a062-56df28939315",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/b12b857e-f5c2-4f34-8673-aa1cadf4f0a3.png?",
-      "description": "Minimalist, playful hand-drawn rainbow pattern."
-    }
-  ],
-  "Folk and Ethnic Art": [
-    {
-      "id": "1b353de6-b3bf-4ea2-8137-70eb61b45bfa",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/73ff4575-0134-4128-b78e-e22b12cf044f.png?",
-      "description": "Traditional Indian Warli folk art with simple lines."
-    },
-    {
-      "id": "a90b3641-88b6-49e1-8e07-b795f6c7eacb",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/93b8d546-d419-4c70-9015-679dee232837.png?",
-      "description": "Detailed, painterly Indian architectural illustration."
-    },
-    {
-      "id": "3b5b2e2c-f289-4eae-a474-98125a07a62a",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/a5d0d2ca-29e3-4d6e-b7e5-4ff9a383d107.png?",
-      "description": "Whimsical storybook forest with folk charm."
-    },
-    {
-      "id": "9c701a75-7868-49f9-93cf-c4463363eb91",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/6y3bb09k41rma0cqeezbwnzeg4.png",
-      "description": "Bold retro tattoo style with celestial motifs."
-    },
-    {
-      "id": "d2254e17-1cdd-4bd5-bb39-a916d5676fbc",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/483063aa-b232-46ad-aa0c-c07e5a0d4616.png?",
-      "description": "Intricate, warm-toned ornamental floral design."
-    }
-  ]
-}
+   {
+      "index":[
+         {
+            "id":"1faa66e4-889b-4d9c-bc63-519aef2f387c",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/2ey3mp3t3xrmc0cqef4s8xyay4.png",
+            "description":"Whimsical, nostalgic bakery-themed cartoons."
+         }
+      ],
+      "Whimsical Characters and Cartoons":[
+         {
+            "id":"296d5d54-03f5-4994-97c0-2d90cf05fb6b",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/48f49e51-6ea2-4123-8108-3dee3e628036.png?",
+            "description":"Flat, minimalistic, playful cartoon dog illustrations."
+         },
+         {
+            "id":"87152969-772b-453a-86a6-01dd280f375a",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/2pkw8bmy71rme0cqeepa3e2ejg.png",
+            "description":"Cute, pastel-toned kawaii pattern."
+         },
+         {
+            "id":"8c8bc8bf-8381-46ae-9bb0-d6a9d6d2f287",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/wga8jcrzr1rm80cqeefadqhapr.png",
+            "description":"Bold linework with colorful, handcrafted charm."
+         },
+         {
+            "id":"8a6616ba-f4e0-4786-9fe9-906dabecec65",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/99cq9p1ydhrme0cqeeh8a6d61g.png",
+            "description":"Playful, imperfect hand-drawn bunny with glasses."
+         },
+         {
+            "id":"7911aa5c-a95a-4156-b4b8-2d4369d593b2",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/ee1e8498-324b-4b43-aeee-cba0d33c497e.png?",
+            "description":"Modern cozy scene with bold minimal colors."
+         },
+         {
+            "id":"67ea5ecc-3c90-4d2a-8e9e-b06fbfdd0063",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/212a4880-fdd5-4639-9ac2-94cec3b370c7.png?",
+            "description":"Minimalist kawaii style with warm tones."
+         },
+         {
+            "id":"eec7a736-2fcd-4935-83fc-30b459fb6fb4",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/5c95c24b-d384-41ac-a5c1-5c4231317bba.png?",
+            "description":"Playful autumnal cats with earthy tones."
+         },
+         {
+            "id":"cc1d73ad-3440-4455-a26e-ccfd767e4aed",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/kxs54qr685rma0cqef3a4zbme8.png",
+            "description":"Light pastel kawaii with playful characters."
+         },
+         {
+            "id":"1faa66e4-889b-4d9c-bc63-519aef2f387c",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/2ey3mp3t3xrmc0cqef4s8xyay4.png",
+            "description":"Whimsical, nostalgic bakery-themed cartoons."
+         }
+      ],
+      "Artistic and Nature-Inspired":[
+         {
+            "id":"3b80eb6a-1889-416d-a609-5cecd49461f0",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/157f5fc8-f956-47e9-b935-a96e74f04897.png?",
+            "description":"Minimalist, layered boho wildflower line art."
+         },
+         {
+            "id":"fb33a440-21e5-4fe5-bdf4-606c7c4b9f2c",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/d91a3396-8dde-44fd-935a-ac8c517ab5a5.png?",
+            "description":"Colorful, crayon-like hand-drawn nature pattern."
+         },
+         {
+            "id":"cd6777d7-1ab3-4867-95d9-01fb60ac136c",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/929e08c6-6b4e-4849-b38e-7b1c04796aed.png?",
+            "description":"Bold, graphic mid-century botanical shapes."
+         },
+         {
+            "id":"7381c982-26b0-4afa-89b0-347c44e2a069",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/a2284f73-b0f8-47d9-9d61-9e3cde299f3d.png?",
+            "description":"Serene, textured watercolor forest night scene."
+         }
+      ],
+      "Jungle and Animal Realism":[
+         {
+            "id":"98c2f5b6-dd61-46e9-9142-9a0e756111a2",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/d50bv04gmhrm80cqef0t8aqe74.png",
+            "description":"Realistic jungle animals and lush tropical plants."
+         }
+      ],
+      "Minimalist Black and White Doodles":[
+         {
+            "id":"037b72a5-e169-4e76-90b7-93a3fa4adaea",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/6cf76763-2877-485d-869e-c67fc5882da6.png?",
+            "description":"Playful monochrome doodles with subtle color accents."
+         },
+         {
+            "id":"e05ce33c-e4c4-4c3e-b432-c2198881bd1b",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/36b2a467-dab0-4503-84a7-f3f637173590.png?",
+            "description":"Simple black outlines with colorful accents."
+         },
+         {
+            "id":"c48cf1b1-4408-4e24-90e8-e7178cd070e8",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/922368ca-f010-43ec-aa7e-21e9d9a2f186.png?",
+            "description":"Playful, messy childlike crayon stick figures."
+         },
+         {
+            "id":"333015d8-a497-46b7-a062-56df28939315",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/b12b857e-f5c2-4f34-8673-aa1cadf4f0a3.png?",
+            "description":"Minimalist, playful hand-drawn rainbow pattern."
+         }
+      ],
+      "Folk and Ethnic Art":[
+         {
+            "id":"1b353de6-b3bf-4ea2-8137-70eb61b45bfa",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/73ff4575-0134-4128-b78e-e22b12cf044f.png?",
+            "description":"Traditional Indian Warli folk art with simple lines."
+         },
+         {
+            "id":"a90b3641-88b6-49e1-8e07-b795f6c7eacb",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/93b8d546-d419-4c70-9015-679dee232837.png?",
+            "description":"Detailed, painterly Indian architectural illustration."
+         },
+         {
+            "id":"3b5b2e2c-f289-4eae-a474-98125a07a62a",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/a5d0d2ca-29e3-4d6e-b7e5-4ff9a383d107.png?",
+            "description":"Whimsical storybook forest with folk charm."
+         },
+         {
+            "id":"9c701a75-7868-49f9-93cf-c4463363eb91",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/6y3bb09k41rma0cqeezbwnzeg4.png",
+            "description":"Bold retro tattoo style with celestial motifs."
+         },
+         {
+            "id":"d2254e17-1cdd-4bd5-bb39-a916d5676fbc",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/483063aa-b232-46ad-aa0c-c07e5a0d4616.png?",
+            "description":"Intricate, warm-toned ornamental floral design."
+         }
+      ]
+   }
 ]
