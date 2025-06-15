@@ -1,5 +1,5 @@
 [
-      {
+     {
   "index": [
     {
       "id": "3b80eb6a-1889-416d-a609-5cecd49461f0",
@@ -45,7 +45,7 @@
     },
     {
       "id": "7911aa5c-a95a-4156-b4b8-2d4369d593b2",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/ee1e8498-324b-4b43-aeee-cba0d33c497e.png?",
+      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations//33reeq9v4srma0cqeevrqvy8zg.png",
       "description": "Modern cozy scene with bold minimal colors."
     },
     {
@@ -60,12 +60,12 @@
     },
     {
       "id": "cc1d73ad-3440-4455-a26e-ccfd767e4aed",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/39050f92-d043-4f65-88af-cd0d3b503d78.png?",
+      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations//kxs54qr685rma0cqef3a4zbme8.png",
       "description": "Light pastel kawaii with playful characters."
     },
     {
       "id": "1faa66e4-889b-4d9c-bc63-519aef2f387c",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/de63b9ba-c012-4fa3-8aa1-213d108f4976.png?",
+      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations//2ey3mp3t3xrmc0cqef4s8xyay4.png",
       "description": "Whimsical, nostalgic bakery-themed cartoons."
     }
   ],
@@ -89,7 +89,7 @@
   "Jungle and Animal Realism": [
     {
       "id": "98c2f5b6-dd61-46e9-9142-9a0e756111a2",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/c5da4435-9f3b-43ad-a6e5-d679f17b51ed.png?",
+      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations//d50bv04gmhrm80cqef0t8aqe74.png",
       "description": "Realistic jungle animals and lush tropical plants."
     }
   ],
@@ -133,7 +133,7 @@
     },
     {
       "id": "9c701a75-7868-49f9-93cf-c4463363eb91",
-      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/53d8a460-894c-4735-a903-2b09f45a0177.png?",
+      "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations//6y3bb09k41rma0cqeezbwnzeg4.png",
       "description": "Bold retro tattoo style with celestial motifs."
     },
     {
@@ -143,5 +143,4 @@
     }
   ]
 }
-
 ]
