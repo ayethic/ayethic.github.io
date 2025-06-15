@@ -1,4 +1,26 @@
 [
+      "index": [
+        {
+            "id": "3b80eb6a-1889-416d-a609-5cecd49461f0",
+            "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/157f5fc8-f956-47e9-b935-a96e74f04897.png?",
+            "description": "Minimalist, layered boho wildflower line art."
+        },
+        {
+            "id": "1b353de6-b3bf-4ea2-8137-70eb61b45bfa",
+            "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/73ff4575-0134-4128-b78e-e22b12cf044f.png?",
+            "description": "Traditional Indian Warli folk art with simple lines."
+        },
+        {
+            "id": "a90b3641-88b6-49e1-8e07-b795f6c7eacb",
+            "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/93b8d546-d419-4c70-9015-679dee232837.png?",
+            "description": "Detailed, painterly Indian architectural illustration."
+        },
+        {
+            "id": "cc1d73ad-3440-4455-a26e-ccfd767e4aed",
+            "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/39050f92-d043-4f65-88af-cd0d3b503d78.png?",
+            "description": "Light pastel kawaii with playful characters."
+        }
+    ],
   {
     "Whimsical Characters and Cartoons": [
         {
@@ -62,33 +84,6 @@
             "id": "cd6777d7-1ab3-4867-95d9-01fb60ac136c",
             "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/929e08c6-6b4e-4849-b38e-7b1c04796aed.png?",
             "description": "Bold, graphic mid-century botanical shapes."
-        },
-        {
-            "id": "7381c982-26b0-4afa-89b0-347c44e2a069",
-            "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/a2284f73-b0f8-47d9-9d61-9e3cde299f3d.png?",
-            "description": "Serene, textured watercolor forest night scene."
-        }
-    ],
-    "index": [
-        {
-            "id": "3b80eb6a-1889-416d-a609-5cecd49461f0",
-            "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/157f5fc8-f956-47e9-b935-a96e74f04897.png?",
-            "description": "Minimalist, layered boho wildflower line art."
-        },
-        {
-            "id": "1b353de6-b3bf-4ea2-8137-70eb61b45bfa",
-            "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/73ff4575-0134-4128-b78e-e22b12cf044f.png?",
-            "description": "Traditional Indian Warli folk art with simple lines."
-        },
-        {
-            "id": "a90b3641-88b6-49e1-8e07-b795f6c7eacb",
-            "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/93b8d546-d419-4c70-9015-679dee232837.png?",
-            "description": "Detailed, painterly Indian architectural illustration."
-        },
-        {
-            "id": "cc1d73ad-3440-4455-a26e-ccfd767e4aed",
-            "image": "https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/39050f92-d043-4f65-88af-cd0d3b503d78.png?",
-            "description": "Light pastel kawaii with playful characters."
         }
     ],
     "Jungle and Animal Realism": [
