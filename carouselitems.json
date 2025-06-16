@@ -2,9 +2,39 @@
    {
       "index":[
          {
-            "id":"1faa66e4-889b-4d9c-bc63-519aef2f387c",
-            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/2ey3mp3t3xrmc0cqef4s8xyay4.png",
-            "description":"Whimsical, nostalgic bakery-themed cartoons."
+            "id":"ns3yssdkv1rme0cqf4st70rr0c",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/ns3yssdkv1rme0cqf4st70rr0c.png",
+            "description":"Minimalist, Cute Panda."
+         },
+         {
+            "id":"8a6616ba-f4e0-4786-9fe9-906dabecec65",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/99cq9p1ydhrme0cqeeh8a6d61g.png",
+            "description":"Playful, imperfect hand-drawn bunny with glasses."
+         },
+         {
+            "id":"67ea5ecc-3c90-4d2a-8e9e-b06fbfdd0063",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/212a4880-fdd5-4639-9ac2-94cec3b370c7.png?",
+            "description":"Minimalist kawaii style with warm tones."
+         },
+         {
+            "id":"8a6616ba-f4e0-4786-9fe9-906dabecec65",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/99cq9p1ydhrme0cqeeh8a6d61g.png",
+            "description":"Playful, imperfect hand-drawn bunny with glasses."
+         },
+         {
+            "id":"67ea5ecc-3c90-4d2a-8e9e-b06fbfdd0063",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/212a4880-fdd5-4639-9ac2-94cec3b370c7.png?",
+            "description":"Minimalist kawaii style with warm tones."
+         },
+         {
+            "id":"q9vcdvrak9rma0cqf4cr4zpta4",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/q9vcdvrak9rma0cqf4cr4zpta4.png",
+            "description":"Flat, minimalistic, playful girl and boy."
+         },
+         {
+            "id":"333015d8-a497-46b7-a062-56df28939315",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/b12b857e-f5c2-4f34-8673-aa1cadf4f0a3.png?",
+            "description":"Minimalist, playful hand-drawn rainbow pattern."
          }
       ],
       "Whimsical Characters and Cartoons":[
