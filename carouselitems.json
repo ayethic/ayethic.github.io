@@ -17,9 +17,14 @@
             "description":"Minimalist kawaii style with warm tones."
          },
          {
-            "id":"8a6616ba-f4e0-4786-9fe9-906dabecec65",
-            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/99cq9p1ydhrme0cqeeh8a6d61g.png",
-            "description":"Playful, imperfect hand-drawn bunny with glasses."
+            "id":"cd6777d7-1ab3-4867-95d9-01fb60ac136c",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/929e08c6-6b4e-4849-b38e-7b1c04796aed.png?",
+            "description":"Bold, graphic mid-century botanical shapes."
+         },
+         {
+            "id":"87152969-772b-453a-86a6-01dd280f375a",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/2pkw8bmy71rme0cqeepa3e2ejg.png",
+            "description":"Cute, pastel-toned kawaii pattern."
          },
          {
             "id":"q9vcdvrak9rma0cqf4cr4zpta4",
@@ -79,16 +84,6 @@
             "id":"fb33a440-21e5-4fe5-bdf4-606c7c4b9f2c",
             "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/d91a3396-8dde-44fd-935a-ac8c517ab5a5.png?",
             "description":"Colorful, crayon-like hand-drawn nature pattern."
-         },
-         {
-            "id":"cd6777d7-1ab3-4867-95d9-01fb60ac136c",
-            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/929e08c6-6b4e-4849-b38e-7b1c04796aed.png?",
-            "description":"Bold, graphic mid-century botanical shapes."
-         },
-         {
-            "id":"87152969-772b-453a-86a6-01dd280f375a",
-            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/2pkw8bmy71rme0cqeepa3e2ejg.png",
-            "description":"Cute, pastel-toned kawaii pattern."
          },
          {
             "id":"1faa66e4-889b-4d9c-bc63-519aef2f387c",
