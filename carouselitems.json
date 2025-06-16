@@ -9,11 +9,6 @@
       ],
       "Whimsical Characters and Cartoons":[
          {
-            "id":"296d5d54-03f5-4994-97c0-2d90cf05fb6b",
-            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/48f49e51-6ea2-4123-8108-3dee3e628036.png?",
-            "description":"Flat, minimalistic, playful cartoon dog illustrations."
-         },
-         {
             "id":"8c8bc8bf-8381-46ae-9bb0-d6a9d6d2f287",
             "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/wga8jcrzr1rm80cqeefadqhapr.png",
             "description":"Bold linework with colorful, handcrafted charm."
@@ -24,11 +19,6 @@
             "description":"Playful, imperfect hand-drawn bunny with glasses."
          },
          {
-            "id":"7911aa5c-a95a-4156-b4b8-2d4369d593b2",
-            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations//33reeq9v4srma0cqeevrqvy8zg.png",
-            "description":"Modern cozy scene with bold minimal colors."
-         },
-         {
             "id":"67ea5ecc-3c90-4d2a-8e9e-b06fbfdd0063",
             "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/212a4880-fdd5-4639-9ac2-94cec3b370c7.png?",
             "description":"Minimalist kawaii style with warm tones."
@@ -37,6 +27,16 @@
             "id":"cc1d73ad-3440-4455-a26e-ccfd767e4aed",
             "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/kxs54qr685rma0cqef3a4zbme8.png",
             "description":"Light pastel kawaii with playful characters."
+         },
+         {
+            "id":"296d5d54-03f5-4994-97c0-2d90cf05fb6b",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/48f49e51-6ea2-4123-8108-3dee3e628036.png?",
+            "description":"Flat, minimalistic, playful cartoon dog illustrations."
+         },
+         {
+            "id":"7911aa5c-a95a-4156-b4b8-2d4369d593b2",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations//33reeq9v4srma0cqeevrqvy8zg.png",
+            "description":"Modern cozy scene with bold minimal colors."
          }
       ],
       "Artistic and Nature-Inspired":[
