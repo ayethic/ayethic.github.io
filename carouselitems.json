@@ -86,6 +86,16 @@
             "description":"Colorful, crayon-like hand-drawn nature pattern."
          },
          {
+            "id":"cd6777d7-1ab3-4867-95d9-01fb60ac136c",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/929e08c6-6b4e-4849-b38e-7b1c04796aed.png?",
+            "description":"Bold, graphic mid-century botanical shapes."
+         },
+         {
+            "id":"87152969-772b-453a-86a6-01dd280f375a",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/2pkw8bmy71rme0cqeepa3e2ejg.png",
+            "description":"Cute, pastel-toned kawaii pattern."
+         },
+         {
             "id":"1faa66e4-889b-4d9c-bc63-519aef2f387c",
             "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/2ey3mp3t3xrmc0cqef4s8xyay4.png",
             "description":"Whimsical, nostalgic bakery-themed cartoons."
