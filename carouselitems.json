@@ -14,11 +14,6 @@
             "description":"Flat, minimalistic, playful cartoon dog illustrations."
          },
          {
-            "id":"87152969-772b-453a-86a6-01dd280f375a",
-            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/2pkw8bmy71rme0cqeepa3e2ejg.png",
-            "description":"Cute, pastel-toned kawaii pattern."
-         },
-         {
             "id":"8c8bc8bf-8381-46ae-9bb0-d6a9d6d2f287",
             "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/wga8jcrzr1rm80cqeefadqhapr.png",
             "description":"Bold linework with colorful, handcrafted charm."
@@ -39,19 +34,9 @@
             "description":"Minimalist kawaii style with warm tones."
          },
          {
-            "id":"eec7a736-2fcd-4935-83fc-30b459fb6fb4",
-            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/5c95c24b-d384-41ac-a5c1-5c4231317bba.png?",
-            "description":"Playful autumnal cats with earthy tones."
-         },
-         {
             "id":"cc1d73ad-3440-4455-a26e-ccfd767e4aed",
             "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/kxs54qr685rma0cqef3a4zbme8.png",
             "description":"Light pastel kawaii with playful characters."
-         },
-         {
-            "id":"1faa66e4-889b-4d9c-bc63-519aef2f387c",
-            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/2ey3mp3t3xrmc0cqef4s8xyay4.png",
-            "description":"Whimsical, nostalgic bakery-themed cartoons."
          }
       ],
       "Artistic and Nature-Inspired":[
@@ -71,9 +56,19 @@
             "description":"Bold, graphic mid-century botanical shapes."
          },
          {
-            "id":"7381c982-26b0-4afa-89b0-347c44e2a069",
-            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/a2284f73-b0f8-47d9-9d61-9e3cde299f3d.png?",
-            "description":"Serene, textured watercolor forest night scene."
+            "id":"87152969-772b-453a-86a6-01dd280f375a",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/2pkw8bmy71rme0cqeepa3e2ejg.png",
+            "description":"Cute, pastel-toned kawaii pattern."
+         },
+         {
+            "id":"1faa66e4-889b-4d9c-bc63-519aef2f387c",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/2ey3mp3t3xrmc0cqef4s8xyay4.png",
+            "description":"Whimsical, nostalgic bakery-themed cartoons."
+         },
+         {
+            "id":"eec7a736-2fcd-4935-83fc-30b459fb6fb4",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/5c95c24b-d384-41ac-a5c1-5c4231317bba.png?",
+            "description":"Playful autumnal cats with earthy tones."
          }
       ],
       "Jungle and Animal Realism":[
@@ -81,6 +76,11 @@
             "id":"98c2f5b6-dd61-46e9-9142-9a0e756111a2",
             "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/d50bv04gmhrm80cqef0t8aqe74.png",
             "description":"Realistic jungle animals and lush tropical plants."
+         },
+         {
+            "id":"9c701a75-7868-49f9-93cf-c4463363eb91",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/6y3bb09k41rma0cqeezbwnzeg4.png",
+            "description":"Bold retro tattoo style with celestial motifs."
          }
       ],
       "Minimalist Black and White Doodles":[
@@ -88,11 +88,6 @@
             "id":"037b72a5-e169-4e76-90b7-93a3fa4adaea",
             "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/6cf76763-2877-485d-869e-c67fc5882da6.png?",
             "description":"Playful monochrome doodles with subtle color accents."
-         },
-         {
-            "id":"e05ce33c-e4c4-4c3e-b432-c2198881bd1b",
-            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/36b2a467-dab0-4503-84a7-f3f637173590.png?",
-            "description":"Simple black outlines with colorful accents."
          },
          {
             "id":"c48cf1b1-4408-4e24-90e8-e7178cd070e8",
@@ -120,11 +115,6 @@
             "id":"3b5b2e2c-f289-4eae-a474-98125a07a62a",
             "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/a5d0d2ca-29e3-4d6e-b7e5-4ff9a383d107.png?",
             "description":"Whimsical storybook forest with folk charm."
-         },
-         {
-            "id":"9c701a75-7868-49f9-93cf-c4463363eb91",
-            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/6y3bb09k41rma0cqeezbwnzeg4.png",
-            "description":"Bold retro tattoo style with celestial motifs."
          },
          {
             "id":"d2254e17-1cdd-4bd5-bb39-a916d5676fbc",
