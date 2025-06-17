@@ -7,6 +7,11 @@
             "description":"Minimalist, Cute Panda."
          },
          {
+            "id":"0002r3af0t1ghrme0cqfny83yjk7m",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/0002r3af0t1ghrme0cqfny83yjk7m.png",
+            "description":"Minimalist, monochrome, hand-drawn, elegant, realistic, refined, pet portrait"
+         },
+         {
             "id":"8a6616ba-f4e0-4786-9fe9-906dabecec65",
             "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/99cq9p1ydhrme0cqeeh8a6d61g.png",
             "description":"Playful, imperfect hand-drawn bunny with glasses."
@@ -57,6 +62,11 @@
             "id":"67ea5ecc-3c90-4d2a-8e9e-b06fbfdd0063",
             "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/212a4880-fdd5-4639-9ac2-94cec3b370c7.png?",
             "description":"Minimalist kawaii style with warm tones."
+         },
+         {
+            "id":"0002r3af0t1ghrme0cqfny83yjk7m",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/0002r3af0t1ghrme0cqfny83yjk7m.png",
+            "description":"Minimalist, monochrome, hand-drawn, elegant, realistic, refined, pet portrait"
          },
          {
             "id":"cc1d73ad-3440-4455-a26e-ccfd767e4aed",
