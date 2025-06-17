@@ -59,6 +59,11 @@
             "description":"Cozy, pastel anime style, cute character sketching with joy."
          },
          {
+            "id":"000e5z2dntqn9rm80cqfpc8qyqv74",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations//000e5z2dntqn9rm80cqfpc8qyqv74.png",
+            "description":"Minimalist, anime style male with clean lines and emotion."
+         },
+         {
             "id":"8a6616ba-f4e0-4786-9fe9-906dabecec65",
             "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/99cq9p1ydhrme0cqeeh8a6d61g.png",
             "description":"Playful, imperfect hand-drawn bunny with glasses."
