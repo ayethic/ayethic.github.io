@@ -12,9 +12,9 @@
             "description":"Minimalist, monochrome, hand-drawn, elegant, realistic, refined, pet portrait"
          },
          {
-            "id":"8a6616ba-f4e0-4786-9fe9-906dabecec65",
-            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/99cq9p1ydhrme0cqeeh8a6d61g.png",
-            "description":"Playful, imperfect hand-drawn bunny with glasses."
+            "id":"000djkkj6x779rma0cqfp5rexm3wr",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/000djkkj6x779rma0cqfp5rexm3wr.png",
+            "description":"Cozy, pastel anime style, cute character sketching with joy."
          },
          {
             "id":"67ea5ecc-3c90-4d2a-8e9e-b06fbfdd0063",
@@ -52,6 +52,11 @@
             "id":"ns3yssdkv1rme0cqf4st70rr0c",
             "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/ns3yssdkv1rme0cqf4st70rr0c.png",
             "description":"Minimalist, Cute Panda."
+         },
+         {
+            "id":"000djkkj6x779rma0cqfp5rexm3wr",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/000djkkj6x779rma0cqfp5rexm3wr.png",
+            "description":"Cozy, pastel anime style, cute character sketching with joy."
          },
          {
             "id":"8a6616ba-f4e0-4786-9fe9-906dabecec65",
