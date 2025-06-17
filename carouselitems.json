@@ -96,6 +96,12 @@
             "description":"Cute, pastel-toned kawaii pattern."
          },
          {
+            "id":"000bs1105t2h1rme0cqfnjbzx9mqr",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations//000bs1105t2h1rme0cqfnjbzx9mqr.png",
+            "description":"Intricate, folkloric, ornamental, hand-painted, vibrant, symmetrical, Turkish-inspired floral style."
+         },
+         
+         {
             "id":"1faa66e4-889b-4d9c-bc63-519aef2f387c",
             "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/2ey3mp3t3xrmc0cqef4s8xyay4.png",
             "description":"Whimsical, nostalgic bakery-themed cartoons."
@@ -118,7 +124,7 @@
             "description":"Bold retro tattoo style with celestial motifs."
          }
       ],
-      "Minimalist Black and White Doodles":[
+      "Minimalist Doodles":[
          {
             "id":"037b72a5-e169-4e76-90b7-93a3fa4adaea",
             "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/6cf76763-2877-485d-869e-c67fc5882da6.png?",
