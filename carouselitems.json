@@ -106,6 +106,11 @@
             "description":"Minimalist, monochrome, hand-drawn, elegant, realistic, refined, pet portrait"
          },
          {
+            "id":"000e3a3n61mbxrme0cqjag9vjpke4",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/000e3a3n61mbxrme0cqjag9vjpke4.webp",
+            "description":"Minimalist, animal silhouette"
+         },
+         {
             "id":"8c8bc8bf-8381-46ae-9bb0-d6a9d6d2f287",
             "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/wga8jcrzr1rm80cqeefadqhapr.png",
             "description":"Bold linework with colorful, handcrafted charm."
