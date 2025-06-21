@@ -99,6 +99,38 @@
             "description":"Modern cozy scene with bold minimal colors."
          }
       ],
+      "Pets and Animal":[
+         {
+            "id":"0002r3af0t1ghrme0cqfny83yjk7m",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/0002r3af0t1ghrme0cqfny83yjk7m.png",
+            "description":"Minimalist, monochrome, hand-drawn, elegant, realistic, refined, pet portrait"
+         },
+         {
+            "id":"8c8bc8bf-8381-46ae-9bb0-d6a9d6d2f287",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/wga8jcrzr1rm80cqeefadqhapr.png",
+            "description":"Bold linework with colorful, handcrafted charm."
+         },
+         {
+            "id":"ns3yssdkv1rme0cqf4st70rr0c",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/ns3yssdkv1rme0cqf4st70rr0c.png",
+            "description":"Minimalist, Cute Panda."
+         },
+         {
+            "id":"8a6616ba-f4e0-4786-9fe9-906dabecec65",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/99cq9p1ydhrme0cqeeh8a6d61g.png",
+            "description":"Playful, imperfect hand-drawn bunny with glasses."
+         },
+         {
+            "id":"67ea5ecc-3c90-4d2a-8e9e-b06fbfdd0063",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/212a4880-fdd5-4639-9ac2-94cec3b370c7.png?",
+            "description":"Minimalist kawaii style with warm tones."
+         },
+         {
+            "id":"296d5d54-03f5-4994-97c0-2d90cf05fb6b",
+            "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/48f49e51-6ea2-4123-8108-3dee3e628036.png?",
+            "description":"Flat, minimalistic, playful cartoon dog illustrations."
+         }
+      ],
       "Artistic and Patterns":[
          {
             "id":"3b80eb6a-1889-416d-a609-5cecd49461f0",
@@ -125,7 +157,6 @@
             "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations//000bs1105t2h1rme0cqfnjbzx9mqr.png",
             "description":"Intricate, folkloric, ornamental, hand-painted, vibrant, symmetrical, Turkish-inspired floral style."
          },
-         
          {
             "id":"1faa66e4-889b-4d9c-bc63-519aef2f387c",
             "image":"https://kwwlrzyehztgxwlrvuya.supabase.co/storage/v1/object/public/image-generations/2ey3mp3t3xrmc0cqef4s8xyay4.png",
